@@ -57,5 +57,4 @@ function Navbar({ setIsLoggedIn }) {
     </div>
   );
 }
-
 export default Navbar;
